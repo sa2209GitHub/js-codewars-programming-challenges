@@ -1,0 +1,35 @@
+{
+  "name": "js-codewars-programming-challenges",
+  "version": "1.0.0",
+  "description": "JavaScript. Codewars Programming Challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./specs/**/*.js",
+    "coverage": "nyc --reporter=html npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sa2209GitHub/js-codewars-programming-challenges.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "mocha",
+    "chai",
+    "unit",
+    "testing",
+    "tests",
+    "codewars"
+  ],
+  "author": "sa <sa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sa2209GitHub/js-codewars-programming-challenges/issues"
+  },
+  "homepage": "https://github.com/sa2209GitHub/js-codewars-programming-challenges#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0"
+  }
+}
