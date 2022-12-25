@@ -6,7 +6,7 @@
  *      https://www.codewars.com/kata/56c5847f27be2c3db20009c3
  */
 
-const subtractTheSumWTF = n => 'apple'      //  WTF? this wors too!
+const subtractTheSumWTF = n => 'apple'      //  WTF!!!? this works too!
 
 const subtractTheSum = n => {
     const fruit = {
