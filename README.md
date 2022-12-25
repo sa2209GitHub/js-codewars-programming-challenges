@@ -1,13 +1,11 @@
-# js-codewars-programming-challenges
+### js-codewars-programming-challenges
 
-JavaScript. Codewars Programming Challenges
+# JavaScript. Codewars Programming Challenges
 
-1.  Init project with *npm*
-    ```bash
-    npm init [-y]
-    ```
+### 8kuy
 
-2.  Install *'mocha'*, *'chai'* and *'nyc'* as development dependencies
-    ```bash
-    npm i -D mocha chai nyc
-    ```
+1.  Vovel Remover [[code]](./solutions/8kuy_vovel_remover.js) [[spec]](./specs/8kuy_vovel_remover.spec.js)
+2.  Collatz Conjecture (3n+1) [[code]](./solutions/8kuy_collatz_conjecture.js) [[spec]](./specs/8kuy_collatz_conjecture.spec.js)
+3.  Localize The Barycenter of a Triangle [[code]](./solutions/8kuy_localize_the_barycenter_of_a_triangle.js) [[spec]](./specs/8kuy_localize_the_barycenter_of_a_triangle.spec.js)
+4.  Subtract the Sum [[code]](./solutions/8kuy_subtract_the_sum.js) [[spec]](./specs/8kuy_subtract_the_sum.spec.js)
+
