@@ -10,7 +10,7 @@
 4.  Subtract the Sum [[code]](./solutions/8kuy_subtract_the_sum.js) [[spec]](./specs/8kuy_subtract_the_sum.spec.js)
 5.  Cat years, Dog years [[code]](./solutions/8kuy_cat_years_dog_years.js) [[spec]](./specs/8kuy_cat_years_dog_years.spec.js)
 6.  Quarter of The Year [[code]](./solutions/8kuy_quarter_of_the_year.js) [[spec]](./specs/8kuy_quarter_of_the_year.spec.js)
-7.  Grasshopper — Summation [[code]](./solutions/8kuy_gresshopper_summation.js) [[spec]](./specs/8kuy_gresshopper_summation.spec.js)
+7.  Grasshopper — Summation [[code]](./solutions/8kuy_grasshopper_summation.js) [[spec]](./specs/8kuy_grasshopper_summation.spec.js)
 
 ### < 7kuy >
 
