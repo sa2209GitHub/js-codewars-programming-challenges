@@ -22,7 +22,8 @@
 16. Regular Ball. Super Ball [[code]](./solutions/8kuy_regular_ball_super_ball.js) [[spec]](./specs/8kuy_regular_ball_super_ball.spec.js)
 17. CSV Representation of Arraay [[code]](./solutions/8kuy_csv_representation_of_array.js) [[spec]](./specs/8kuy_csv_representation_of_array.spec.js)
 18. altERnaTIng cAsE <=> ALTerNAtiNG CaSe [[code]](./solutions/8kuy_alternating_case.js) [[spec]](./specs/8kuy_alternating_case.spec.js)
-18. Is It a Palindrome? [[code]](./solutions/8kuy_is_it_a_palindrome.js) [[spec]](./specs/8kuy_is_it_a_palindrome.spec.js)
+19. Is It a Palindrome? [[code]](./solutions/8kuy_is_it_a_palindrome.js) [[spec]](./specs/8kuy_is_it_a_palindrome.spec.js)
+20. Filter Out The Gesse [[code]](./solutions/8kuy_filter_out_the_gesse.js) [[spec]](./specs/8kuy_filter_out_the_gesse.spec.js)
 
 ### < 7kuy >
 
