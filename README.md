@@ -18,6 +18,7 @@
 12. True for None [[code]](./solutions/8kuy_true_for_none.js) [[spec]](./specs/8kuy_true_for_none.spec.js)
 13. Find Maximum and Minimum Values of a List [[code]](./solutions/8kuy_find_maximum_and_minimum_values_of_a_list.js) [[spec]](./specs/8kuy_find_maximum_and_minimum_values_of_a_list.spec.js)
 14. Invert Values [[code]](./solutions/8kuy_invert_values.js) [[spec]](./specs/8kuy_invert_values.spec.js)
+15. Find Multiples of a Number [[code]](./solutions/8kuy_find_multiples_of_a_number.js) [[spec]](./specs/8kuy_find_multiples_of_a_number.spec.js)
 
 ### < 7kuy >
 
