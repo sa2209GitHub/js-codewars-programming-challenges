@@ -20,6 +20,7 @@
 14. Invert Values [[code]](./solutions/8kuy_invert_values.js) [[spec]](./specs/8kuy_invert_values.spec.js)
 15. Find Multiples of a Number [[code]](./solutions/8kuy_find_multiples_of_a_number.js) [[spec]](./specs/8kuy_find_multiples_of_a_number.spec.js)
 16. Regular Ball. Super Ball [[code]](./solutions/8kuy_regular_ball_super_ball.js) [[spec]](./specs/8kuy_regular_ball_super_ball.spec.js)
+17. CSV Representation of Arraay [[code]](./solutions/8kuy_csv_representation_of_array.js) [[spec]](./specs/8kuy_csv_representation_of_array.spec.js)
 
 ### < 7kuy >
 
