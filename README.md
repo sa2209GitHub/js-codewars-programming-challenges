@@ -13,6 +13,8 @@
 7.  Grasshopper — Summation [[code]](./solutions/8kuy_grasshopper_summation.js) [[spec]](./specs/8kuy_grasshopper_summation.spec.js)
 8.  Sale of Hot Dogs [[code]](./solutions/8kuy_sale_of_hot_dogs.js) [[spec]](./specs/8kuy_sale_of_hot_dogs.spec.js)
 9.  Remove Exlamation Marks [[code]](./solutions/8kuy_remove_exclamation_marks.js) [[spec]](./specs/8kuy_remove_exclamation_marks.spec.js)
+10. Count The Number of Cubes With Paint On [[code]](./solutions/8kuy_count_the_number_of_cubes_with_paint_on.js) [[spec]](./specs/8kuy_count_the_number_of_cubes_with_paint_on.spec.js)
+11. Pythagorean Triple [[code]](./solutions/8kuy_pythagorean_triple.js) [[spec]](./specs/8kuy_pythagorean_triple.spec.js)
 
 ### < 7kuy >
 
