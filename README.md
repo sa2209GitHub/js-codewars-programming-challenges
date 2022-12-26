@@ -15,6 +15,7 @@
 9.  Remove Exlamation Marks [[code]](./solutions/8kuy_remove_exclamation_marks.js) [[spec]](./specs/8kuy_remove_exclamation_marks.spec.js)
 10. Count The Number of Cubes With Paint On [[code]](./solutions/8kuy_count_the_number_of_cubes_with_paint_on.js) [[spec]](./specs/8kuy_count_the_number_of_cubes_with_paint_on.spec.js)
 11. Pythagorean Triple [[code]](./solutions/8kuy_pythagorean_triple.js) [[spec]](./specs/8kuy_pythagorean_triple.spec.js)
+12. True for None [[code]](./solutions/8kuy_true_for_none.js) [[spec]](./specs/8kuy_true_for_none.spec.js)
 
 ### < 7kuy >
 
