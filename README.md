@@ -10,7 +10,7 @@
 4.  Subtract The Sum [[code]](./solutions/8kuy_subtract_the_sum.js) [[spec]](./specs/8kuy_subtract_the_sum.spec.js)
 5.  Cat Years, Dog Years [[code]](./solutions/8kuy_cat_years_dog_years.js) [[spec]](./specs/8kuy_cat_years_dog_years.spec.js)
 6.  Quarter of The Year [[code]](./solutions/8kuy_quarter_of_the_year.js) [[spec]](./specs/8kuy_quarter_of_the_year.spec.js)
-7.  Grasshopper — Summation [[code]](./solutions/8kuy_grasshopper_summation.js) [[spec]](./specs/8kuy_grasshopper_summation.spec.js)
+7.  Summation [[code]](./solutions/8kuy_summation.js) [[spec]](./specs/8kuy_summation.spec.js)
 8.  Sale of Hot Dogs [[code]](./solutions/8kuy_sale_of_hot_dogs.js) [[spec]](./specs/8kuy_sale_of_hot_dogs.spec.js)
 9.  Remove Exlamation Marks [[code]](./solutions/8kuy_remove_exclamation_marks.js) [[spec]](./specs/8kuy_remove_exclamation_marks.spec.js)
 10. Count The Number of Cubes With Paint On [[code]](./solutions/8kuy_count_the_number_of_cubes_with_paint_on.js) [[spec]](./specs/8kuy_count_the_number_of_cubes_with_paint_on.spec.js)
@@ -21,6 +21,7 @@
 15. Find Multiples of a Number [[code]](./solutions/8kuy_find_multiples_of_a_number.js) [[spec]](./specs/8kuy_find_multiples_of_a_number.spec.js)
 16. Regular Ball. Super Ball [[code]](./solutions/8kuy_regular_ball_super_ball.js) [[spec]](./specs/8kuy_regular_ball_super_ball.spec.js)
 17. CSV Representation of Arraay [[code]](./solutions/8kuy_csv_representation_of_array.js) [[spec]](./specs/8kuy_csv_representation_of_array.spec.js)
+18. altERnaTIng cAsE <=> ALTerNAtiNG CaSe [[code]](./solutions/8kuy_alternating_case.js) [[spec]](./specs/8kuy_alternating_case.spec.js)
 
 ### < 7kuy >
 

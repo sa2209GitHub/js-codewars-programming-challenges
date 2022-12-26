@@ -7,7 +7,7 @@
  */
 
 const { summation,
-        summationSecond } = require('../solutions/8kuy_grasshopper_summation')
+        summationSecond } = require('../solutions/8kuy_summation')
 const assert = require('chai').assert
 
 describe('< 8kuy > Grasshopper — Summation', () => {
