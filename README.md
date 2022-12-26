@@ -16,6 +16,7 @@
 10. Count The Number of Cubes With Paint On [[code]](./solutions/8kuy_count_the_number_of_cubes_with_paint_on.js) [[spec]](./specs/8kuy_count_the_number_of_cubes_with_paint_on.spec.js)
 11. Pythagorean Triple [[code]](./solutions/8kuy_pythagorean_triple.js) [[spec]](./specs/8kuy_pythagorean_triple.spec.js)
 12. True for None [[code]](./solutions/8kuy_true_for_none.js) [[spec]](./specs/8kuy_true_for_none.spec.js)
+13. Find Maximum and Minimum Values of a List [[code]](./solutions/8kuy_find_maximum_and_minimum_values_of_a_list.js) [[spec]](./specs/8kuy_find_maximum_and_minimum_values_of_a_list.spec.js)
 
 ### < 7kuy >
 
