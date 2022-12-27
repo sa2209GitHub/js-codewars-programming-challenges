@@ -11,7 +11,7 @@ const chai = require('chai')
 const assert = chai.assert
 chai.config.truncateThreshold = 0
 
-describe('< 8 kuy >  Quarter of The Year', () => {
+describe('< 8kuy >  Quarter of The Year', () => {
     it('Should pass the tests', () => {
         assert.strictEqual(quarterOf(3), 1)
         assert.strictEqual(quarterOf(5), 2)

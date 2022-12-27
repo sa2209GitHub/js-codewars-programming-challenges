@@ -9,7 +9,7 @@
 const { square } = require('../solutions/8kuy_squaring_an_argument')
 const { assert } = require('chai')
 
-describe('< 8 kuy >  Squaring an Argument', () => {
+describe('< 8kuy >  Squaring an Argument', () => {
     it('Should pass the tests', () => {
         assert.strictEqual(square(3), 9)
     })

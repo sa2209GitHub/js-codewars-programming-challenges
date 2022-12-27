@@ -10,7 +10,7 @@ const { subtractTheSum,
         subtractTheSumWTF } = require('../solutions/8kuy_subtract_the_sum')
 const { assert } = require('chai')
 
-describe('< 8 kuy > Subtract the Sum', () => {
+describe('< 8kuy > Subtract the Sum', () => {
     it('Should pass the tests', () => {
         assert.deepEqual(subtractTheSum(10), 'apple')
         assert.deepEqual(subtractTheSum(4353), 'apple')

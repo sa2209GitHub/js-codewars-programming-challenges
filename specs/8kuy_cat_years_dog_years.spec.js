@@ -10,7 +10,7 @@ const { humanYearsCatYearsDogYears,
         humanYearsCatYearsDogYearsSecond } = require('../solutions/8kuy_cat_years_dog_years')
 const { assert } = require('chai')
 
-describe('< 8 kuy > Cat years, Dog years', () => {
+describe('< 8kuy > Cat years, Dog years', () => {
     it('Should pass the tests', () => {
         assert.deepEqual(humanYearsCatYearsDogYears(1), [1, 15, 15])
         assert.deepEqual(humanYearsCatYearsDogYears(2), [2, 24, 24])
