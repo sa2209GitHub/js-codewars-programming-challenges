@@ -28,6 +28,8 @@
 ### **< 7kuy >**
 
 1.  Basic Scheme Math Interpreter **[[code]](./solutions/7kuy_basic_scheme_math_interpreter.js) [[spec]](./specs/7kuy_basic_scheme_math_interpreter.spec.js)**
+2.  You Complete Me **[[code]](./solutions/7kuy_you_complete_me.js) [[spec]](./specs/7kuy_you_complete_me.spec.js)**
+3.  How Fast Can The Burglar Steal all The Diamonds? **[[code]](./solutions/7kuy_how_fast_the_burglar_steal_all_the_diamonds.js) [[specs]](./specs/7kuy_how_fast_the_burglar_steal_all_the_diamonds.spec.js)**
 
 ### **< 6kuy >**
 

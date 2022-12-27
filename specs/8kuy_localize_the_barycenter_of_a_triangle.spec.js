@@ -9,7 +9,7 @@
 const { barTriang } = require('../solutions/8kuy_localize_the_barycenter_of_a_triangle')
 const { assert } = require('chai')
 
-describe('< 8 kuy > Localize The Barycenter of a Triangle', () => {
+describe('< 8kuy > Localize The Barycenter of a Triangle', () => {
     it('Should pass the tests', () => {
         assert.deepEqual(barTriang([4, 6], [12, 4], [10, 10]), [8.6667, 6.6667]);
         assert.deepEqual(barTriang([4, 2], [12, 2], [6, 10]), [7.3333, 4.6667]);
